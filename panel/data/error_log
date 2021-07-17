@@ -1,0 +1,2 @@
+[03-Jul-2021 01:27:08 Europe/Istanbul] PHP Notice:  Undefined index: slide_image in /home/u0198406/public_html/panel/data/insert.php on line 10
+[03-Jul-2021 01:27:08 Europe/Istanbul] PHP Notice:  Undefined variable: targetPath in /home/u0198406/public_html/panel/data/insert.php on line 30
